@@ -25,22 +25,22 @@ Basic user authentication for account security.
 Data encryption for message privacy.
 # How to Use:
 
-# Create an Account:
+<li>Create an Account:</li>
 
 Sign up with a unique username and password.
-# Start a Conversation:
+<li>Start a Conversation:</li>
 
 Search for another user by their username.
 Initiate a conversation by sending your first message.
-# Message Operations:
+<li>Message Operations:</li>
 
 Edit a message by clicking on it within a specific time frame.
 Delete a message to remove it from the conversation.
-# Enjoy Seamless Communication:
+<li>Enjoy Seamless Communication:</li>
 
 Experience a streamlined messaging process.
 Communicate privately with friends or colleagues.
-# Technologies Used:
+<li>Enjoy Seamless Communication:</li>
 
 <li>Frontend: HTML, CSS, JavaScript </li>
 <li>Backend: Node.js, Express</li>
