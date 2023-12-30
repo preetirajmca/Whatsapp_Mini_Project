@@ -36,12 +36,12 @@ Initiate a conversation by sending your first message.
 
 Edit a message by clicking on it within a specific time frame.
 Delete a message to remove it from the conversation.
-<li>Enjoy Seamless Communication:</li>
+ Enjoy Seamless Communication: 
 
 Experience a streamlined messaging process.
 Communicate privately with friends or colleagues.
 <li>Enjoy Seamless Communication:</li>
-
+# Technologies Used:
 <li>Frontend: HTML, CSS, JavaScript </li>
 <li>Backend: Node.js, Express</li>
 <li>Database: MongoDB</li>
